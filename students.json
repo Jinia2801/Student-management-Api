@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Jinia Goel",
+        "age": 21,
+        "course": "Computer Science",
+        "email": "jinia@example.com",
+        "cgpa": 8.9
+    },
+    {
+        "id": 2,
+        "name": "Rahul Sharma",
+        "age": 22,
+        "course": "Information Technology",
+        "email": "rahul@example.com",
+        "cgpa": 8.5
+    },
+    {
+        "id": 3,
+        "name": "Priya Singh",
+        "age": 20,
+        "course": "Artificial Intelligence",
+        "email": "priya@example.com",
+        "cgpa": 9.1
+    }
+]
